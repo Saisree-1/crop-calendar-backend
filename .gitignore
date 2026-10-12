@@ -45,3 +45,4 @@ target/
 # Local IDE files
 .idea/
 .vscode/
+src/main/resources/application.properties
